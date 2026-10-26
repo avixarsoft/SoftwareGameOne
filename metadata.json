@@ -1,0 +1,6 @@
+{
+  "name": "Avixar Software - Ofis Simülasyonu",
+  "description": "Hayatı kolaylaştıran web uygulamaları ve dijital altyapılar geliştiren bir yazılım şirketini yönettiğiniz 3D ofis simülasyon oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
